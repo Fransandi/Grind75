@@ -1,0 +1,16 @@
+{
+  "test_cases": [
+    {
+      "input": { "s": "anagram", "t": "nagaram" },
+      "output": true
+    },
+    {
+      "input": { "s": "rat", "t": "cat" },
+      "output": false
+    },
+    {
+      "input": { "s": "car", "t": "acr" },
+      "output": true
+    }
+  ]
+}
