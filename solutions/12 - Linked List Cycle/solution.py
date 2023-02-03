@@ -1,11 +1,12 @@
-'''
+"""
 Exercise: Linked List Cycle
 Difficulty: Easy
 Time: 20 min
 LeetCode: https://leetcode.com/problems/linked-list-cycle/
-'''
+"""
 
 from helpers.linked_list import build_linked_list
+
 
 def solution(head, pos):
     head = build_linked_list(head, pos)

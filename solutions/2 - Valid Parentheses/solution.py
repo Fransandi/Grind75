@@ -1,13 +1,13 @@
-'''
+"""
 Exercise: Valid Parentheses
 Difficulty: Easy
 Time: 20 min
 LeetCode: https://leetcode.com/problems/valid-parentheses/
-'''
+"""
 
 
 def solution(s) -> bool:
-    dict = {'(': ')', '[': ']', '{': '}'}
+    dict = {"(": ")", "[": "]", "{": "}"}
     stack = []
 
     for char in s:

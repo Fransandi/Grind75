@@ -3,6 +3,7 @@ class ListNode:
         self.val = x
         self.next = None
 
+
 def build_linked_list(elements, pos=-1):
     head = ListNode([elements.pop(0)])
     node = head
@@ -12,6 +13,7 @@ def build_linked_list(elements, pos=-1):
 
     if pos >= 0:
         cycle_node = head
-        for _ in range(pos): cycle_node = cycle_node.next
+        for _ in range(pos):
+            cycle_node = cycle_node.next
         node.next = cycle_node
     return head
