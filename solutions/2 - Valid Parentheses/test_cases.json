@@ -1,0 +1,32 @@
+{
+    "test_cases": [
+        {
+            "input": { "s": "()"},
+            "output": true
+        },
+        {
+            "input": { "s": "()[]{}"},
+            "output": true
+        },
+        {
+            "input": { "s": "(]"},
+            "output": false
+        },
+        {
+            "input": { "s": "()()[()]{()}"},
+            "output": true
+        },
+        {
+            "input": { "s": "()()[()]{)}"},
+            "output": false
+        },
+        {
+            "input": { "s": "()[({()})]{}[()]{()}"},
+            "output": true
+        },
+        {
+            "input": { "s": "()[(()})]{}[()]{()}"},
+            "output": false
+        }
+    ]
+}
