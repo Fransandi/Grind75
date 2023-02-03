@@ -35,7 +35,7 @@ More info: https://www.techinterviewhandbook.org/grind75/about
 ### Week 2 (0 / 12)
 
 - [x] 14 - [First Bad Version](https://leetcode.com/problems/first-bad-version) (Easy·20 mins)
-- [ ] 15 - [Ransom Note](https://leetcode.com/problems/ransom-note) (Easy·15 mins)
+- [x] 15 - [Ransom Note](https://leetcode.com/problems/ransom-note) (Easy·15 mins)
 - [ ] 16 - [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) (Easy·20 mins)
 - [ ] 17 - [Longest Palindrome](https://leetcode.com/problems/longest-palindrome) (Easy·20 mins)
 - [ ] 18 - [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) (Easy·20 mins)

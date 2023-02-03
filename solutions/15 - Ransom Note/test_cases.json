@@ -1,8 +1,16 @@
 {
   "test_cases": [
     {
-      "input": {},
-      "output": []
+      "input": { "ransomNote": "a", "magazine": "b" },
+      "output": false
+    },
+    {
+      "input": { "ransomNote": "aa", "magazine": "ab" },
+      "output": false
+    },
+    {
+      "input": { "ransomNote": "aa", "magazine": "aab" },
+      "output": true
     }
   ]
 }
