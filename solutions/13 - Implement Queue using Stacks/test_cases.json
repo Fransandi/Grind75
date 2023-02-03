@@ -1,8 +1,13 @@
 {
   "test_cases": [
     {
-      "input": {},
-      "output": []
+      "input": {
+        "instructions": [
+          ["MyQueue", "push", "push", "peek", "pop", "empty"],
+          [[], [1], [2], [], [], []]
+        ]
+      },
+      "output": null
     }
   ]
 }
