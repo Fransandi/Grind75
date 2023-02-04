@@ -5,7 +5,7 @@ class ListNode:
 
 
 def build_linked_list(elements, cycle=-1):
-    head = ListNode([elements.pop(0)])
+    head = ListNode(elements.pop(0))
     node = head
     while elements:
         node.next = ListNode(elements.pop(0))
