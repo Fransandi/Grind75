@@ -32,12 +32,12 @@ More info: https://www.techinterviewhandbook.org/grind75/about
 - [x] 12 - [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) (Easy·20 mins)
 - [x] 13 - [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks) (Easy·20 mins)
 
-### Week 2 (3 / 12)
+### Week 2 (4 / 12)
 
 - [x] 14 - [First Bad Version](https://leetcode.com/problems/first-bad-version) (Easy·20 mins)
 - [x] 15 - [Ransom Note](https://leetcode.com/problems/ransom-note) (Easy·15 mins)
 - [x] 16 - [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) (Easy·20 mins)
-- [ ] 17 - [Longest Palindrome](https://leetcode.com/problems/longest-palindrome) (Easy·20 mins)
+- [x] 17 - [Longest Palindrome](https://leetcode.com/problems/longest-palindrome) (Easy·20 mins)
 - [ ] 18 - [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) (Easy·20 mins)
 - [ ] 19 - [Majority Element](https://leetcode.com/problems/majority-element) (Easy·20 mins)
 - [ ] 20 - [Add Binary](https://leetcode.com/problems/add-binary) (Easy·15 mins)
