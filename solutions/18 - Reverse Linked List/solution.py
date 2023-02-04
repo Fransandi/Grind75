@@ -6,5 +6,10 @@ LeetCode: https://leetcode.com/problems/reverse-linked-list/
 """
 
 
-def solution(input):
-    pass
+from helpers.linked_list import build_linked_list
+
+
+def solution(head):
+    head = build_linked_list(head)
+
+    print(head)
