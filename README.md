@@ -32,14 +32,14 @@ More info: https://www.techinterviewhandbook.org/grind75/about
 - [x] 12 - [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) (Easy·20 mins)
 - [x] 13 - [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks) (Easy·20 mins)
 
-### Week 2 (5 / 12)
+### Week 2 (6 / 12)
 
 - [x] 14 - [First Bad Version](https://leetcode.com/problems/first-bad-version) (Easy·20 mins)
 - [x] 15 - [Ransom Note](https://leetcode.com/problems/ransom-note) (Easy·15 mins)
 - [x] 16 - [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) (Easy·20 mins)
 - [x] 17 - [Longest Palindrome](https://leetcode.com/problems/longest-palindrome) (Easy·20 mins)
 - [x] 18 - [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) (Easy·20 mins)
-- [ ] 19 - [Majority Element](https://leetcode.com/problems/majority-element) (Easy·20 mins)
+- [x] 19 - [Majority Element](https://leetcode.com/problems/majority-element) (Easy·20 mins)
 - [ ] 20 - [Add Binary](https://leetcode.com/problems/add-binary) (Easy·15 mins)
 - [ ] 21 - [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree) (Easy·30 mins)
 - [ ] 22 - [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list) (Easy·20 mins)

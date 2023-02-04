@@ -40,14 +40,15 @@ def run_tests(solution, test_cases, solution_dir):
     print(f'> Running tests for "{solution_dir}"\n')
     for index, test in enumerate(test_cases):
         if test.input:
-            print(f"Test {index+1}.....")
+            print(f"# TEST {index+1} ...")
             output = solution(**test.input)
             test.passed = output == test.output
-            success_message = "Success ✅"
-            failed_message = f"Failed ❌ \n - Input:    {test.input} \n - Output:   {output} \n - Expected: {test.output}"
+            success_message = "SUCCESS ✅"
+            failed_message = f"FAILED ❌ \n - Input:    {test.input} \n - Output:   {output} \n - Expected: {test.output}"
             print(
-                f"Test {index+1}: "
+                "# Result: "
                 + (success_message if test.passed else failed_message)
+                + "\n-------\n"
             )
         else:
             print("⚠️ You need to add the input/output into the test_cases.json file\n")
@@ -60,9 +61,7 @@ def show_result(test_cases):
     tests_passed = sum(test.passed for test in test_cases)
     passed_rate = math.trunc(tests_passed * 100 / total_tests)
 
-    print(
-        f"-------\n👉 Result: {tests_passed} of {total_tests} Tests passed ({passed_rate}%)"
-    )
+    print(f"👉 Result: {tests_passed} of {total_tests} Tests passed ({passed_rate}%)")
     if tests_passed == total_tests:
         print("🚀 Solution Accepted! 🚀")
 
