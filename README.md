@@ -36,7 +36,7 @@ More info: https://www.techinterviewhandbook.org/grind75/about
 
 - [x] 14 - [First Bad Version](https://leetcode.com/problems/first-bad-version) (Easy·20 mins)
 - [x] 15 - [Ransom Note](https://leetcode.com/problems/ransom-note) (Easy·15 mins)
-- [ ] 16 - [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) (Easy·20 mins)
+- [x] 16 - [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) (Easy·20 mins)
 - [ ] 17 - [Longest Palindrome](https://leetcode.com/problems/longest-palindrome) (Easy·20 mins)
 - [ ] 18 - [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) (Easy·20 mins)
 - [ ] 19 - [Majority Element](https://leetcode.com/problems/majority-element) (Easy·20 mins)

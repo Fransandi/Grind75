@@ -1,8 +1,12 @@
 {
   "test_cases": [
     {
-      "input": {},
-      "output": []
+      "input": { "n": 2 },
+      "output": 2
+    },
+    {
+      "input": { "n": 3 },
+      "output": 3
     }
   ]
 }
