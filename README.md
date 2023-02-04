@@ -16,7 +16,7 @@ More info: https://www.techinterviewhandbook.org/grind75/about
 
 ## Grind75 Problems
 
-### Week 1 (0 / 13)
+### Week 1 (13 / 13)
 
 - [x] 1 - [Two Sum](https://leetcode.com/problems/two-sum) (Easy·15 mins)
 - [x] 2 - [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) (Easy·20  mins)
@@ -32,7 +32,7 @@ More info: https://www.techinterviewhandbook.org/grind75/about
 - [x] 12 - [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) (Easy·20 mins)
 - [x] 13 - [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks) (Easy·20 mins)
 
-### Week 2 (0 / 12)
+### Week 2 (3 / 12)
 
 - [x] 14 - [First Bad Version](https://leetcode.com/problems/first-bad-version) (Easy·20 mins)
 - [x] 15 - [Ransom Note](https://leetcode.com/problems/ransom-note) (Easy·15 mins)
