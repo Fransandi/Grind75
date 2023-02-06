@@ -6,6 +6,7 @@ LeetCode: https://leetcode.com/problems/merge-two-sorted-lists/
 """
 
 
+# Time: O(n+m), Space: O(n+m), where n, m are the lengths of the arrays list1, list2
 def solution(list1, list2):
     res = []
     while list1 and list2:

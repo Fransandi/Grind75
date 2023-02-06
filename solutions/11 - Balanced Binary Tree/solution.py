@@ -5,12 +5,12 @@ Time: 15 min
 LeetCode: https://leetcode.com/problems/balanced-binary-tree/
 """
 
-# Definition for a binary tree node.
-from helpers.binary_tree import build_binary_tree
+from helpers.binary_tree import array_to_binary_tree
 
 
+# Time: O(n), Space: O(1), where n is the number of nodes in the binary tree
 def solution(root):
-    root = build_binary_tree(root)
+    root = array_to_binary_tree(root)
     return is_balanced(root) > 0
 
 

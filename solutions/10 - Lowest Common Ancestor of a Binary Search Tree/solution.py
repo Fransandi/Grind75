@@ -5,11 +5,12 @@ Time: 20 min
 LeetCode: https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
 """
 
-from helpers.binary_tree import build_binary_tree
+from helpers.binary_tree import array_to_binary_tree
 
 
+# Time: O(h), Space: O(1), where h is the height of the binary tree
 def solution(root, p, q):
-    root = build_binary_tree(root)
+    root = array_to_binary_tree(root)
 
     while root:
         if root.val > max(p, q):

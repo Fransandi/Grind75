@@ -6,6 +6,7 @@ LeetCode: https://leetcode.com/problems/valid-parentheses/
 """
 
 
+# Time: O(n), Space: O(n), where n is the length of the string s
 def solution(s) -> bool:
     dict = {"(": ")", "[": "]", "{": "}"}
     stack = []

@@ -6,6 +6,7 @@ LeetCode: https://leetcode.com/problems/binary-search/
 """
 
 
+# Binary Search -> Time: O(log n), Space: O(1), where n is the length of the nums array
 def solution(nums, target):
     left, right = 0, len(nums) - 1
 

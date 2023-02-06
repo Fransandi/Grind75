@@ -5,21 +5,22 @@ Time: 15 min
 LeetCode: https://leetcode.com/problems/invert-binary-tree/
 """
 
-from helpers.binary_tree import build_binary_tree, tree_to_array
+from helpers.binary_tree import array_to_binary_tree, binary_tree_to_array
 
 
+# Time: O(n), Space: O(n), where n is the number of nodes in the binary tree
 def solution(nodes):
-    root = build_binary_tree(nodes)
-    root = invert_tree(root)
-    return tree_to_array(root)
+    root = array_to_binary_tree(nodes)
+    root = invert_binary_tree(root)
+    return binary_tree_to_array(root)
 
 
-def invert_tree(root):
+def invert_binary_tree(root):
     if not root:
         return None
 
     left, right = root.left, root.right
-    root.left = invert_tree(right)
-    root.right = invert_tree(left)
+    root.left = invert_binary_tree(right)
+    root.right = invert_binary_tree(left)
 
     return root

@@ -6,6 +6,7 @@ LeetCode: https://leetcode.com/problems/implement-queue-using-stacks/
 """
 
 
+# Time: O(1), Space: O(n), where n is the number of elements in the queue, approach to amortize methods
 class MyQueue:
     def __init__(self):
         self.in_stack = []

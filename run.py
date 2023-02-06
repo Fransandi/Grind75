@@ -40,7 +40,7 @@ def run_tests(solution, test_cases, solution_dir):
     print(f'> Running tests for "{solution_dir}"\n')
     for index, test in enumerate(test_cases):
         if test.input:
-            print(f"# TEST {index+1} ...")
+            print(f"# TEST {index+1}:")
             output = solution(**test.input)
             test.passed = output == test.output
             success_message = "SUCCESS ✅"
@@ -48,7 +48,7 @@ def run_tests(solution, test_cases, solution_dir):
             print(
                 "# Result: "
                 + (success_message if test.passed else failed_message)
-                + "\n-------\n"
+                + "\n---"
             )
         else:
             print("⚠️ You need to add the input/output into the test_cases.json file\n")

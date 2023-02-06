@@ -6,6 +6,7 @@ LeetCode: https://leetcode.com/problems/longest-palindrome/
 """
 
 
+# Time: O(n), Space: O(n), where n is the length of the string s
 def solution(s):
     len_palindrome, visited = 0, set()
 

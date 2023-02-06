@@ -6,11 +6,12 @@ LeetCode: https://leetcode.com/problems/reverse-linked-list/
 """
 
 
-from helpers.linked_list import build_linked_list, linked_list_to_array
+from helpers.linked_list import array_to_linked_list, linked_list_to_array
 
 
+# Time: O(n), Space: O(1), where n is the number of nodes in the linked list
 def solution(head):
-    head = build_linked_list(head)
+    head = array_to_linked_list(head)
 
     prev = None
     cur = head

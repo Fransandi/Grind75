@@ -6,6 +6,7 @@ LeetCode: https://leetcode.com/problems/flood-fill/
 """
 
 
+# Time: O(n), Space: O(n), where n is the number of cells in the image matrix
 def solution(image, sr, sc, color):
     initial_color = image[sr][sc]
 
@@ -26,9 +27,10 @@ def fill(image, sr, sc, color, initial_color):
     return image
 
 
-def get_neighbours(image, sr, sc):
+def get_neighbours(image, r, c):
+    height, width = len(image[0]), len(image)
     return [
-        (r, c)
-        for (r, c) in [(sr + 1, sc), (sr - 1, sc), (sr, sc + 1), (sr, sc - 1)]
-        if r >= 0 and r < len(image[0]) and c >= 0 and c < len(image)
+        (n_r, n_c)
+        for (n_r, n_c) in [(r + 1, c), (r - 1, c), (r, c + 1), (r, c - 1)]
+        if n_r >= 0 and n_r < height and n_c >= 0 and n_c < width
     ]

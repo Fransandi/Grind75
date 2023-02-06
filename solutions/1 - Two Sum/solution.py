@@ -6,6 +6,7 @@ LeetCode: https://leetcode.com/problems/two-sum/
 """
 
 
+# Time: O(n), Space: O(n), where n is the length of the nums array
 def solution(nums, target):
     nums_to_index = {}
     for index, num in enumerate(nums):
