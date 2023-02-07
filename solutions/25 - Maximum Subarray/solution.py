@@ -6,6 +6,7 @@ LeetCode: https://leetcode.com/problems/maximum-subarray/
 """
 
 
+# Time: O(n), Space: O(1), where n is the length of the nums array
 def solution(nums):
     cur_sum = max_sum = nums[0]
 
