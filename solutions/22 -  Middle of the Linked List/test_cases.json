@@ -1,8 +1,16 @@
 {
   "test_cases": [
     {
-      "input": {},
-      "output": []
+      "input": { "head": [1, 2, 3, 4, 5] },
+      "output": [3, 4, 5]
+    },
+    {
+      "input": { "head": [1, 2, 3, 4, 5, 6] },
+      "output": [4, 5, 6]
+    },
+    {
+      "input": { "head": [1, 2] },
+      "output": [2]
     }
   ]
 }

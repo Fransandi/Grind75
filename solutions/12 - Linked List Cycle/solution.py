@@ -5,12 +5,12 @@ Time: 20 min
 LeetCode: https://leetcode.com/problems/linked-list-cycle/
 """
 
-from helpers.linked_list import array_to_linked_list
+import helpers.linked_list as linked_list_helper
 
 
 # Time: O(n), Space: O(n), where n is the number of nodes in the linked list
 def solution(head, pos):
-    head = array_to_linked_list(head, pos)
+    head = linked_list_helper.array_to_linked_list(head, pos)
     visited = set()
     while head:
         # Cycle found

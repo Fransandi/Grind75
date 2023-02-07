@@ -5,12 +5,12 @@ Time: 30 min
 LeetCode: https://leetcode.com/problems/diameter-of-binary-tree/
 """
 
-from helpers.binary_tree import array_to_binary_tree
+from helpers import binary_tree
 
 
 # Time: O(n), Space: O(n), where n is the number of nodes in the binary tree
 def solution(root):
-    root = array_to_binary_tree(root)
+    root = binary_tree.array_to_binary_tree(root)
     max_diameter = 0
 
     def calculate_max_diameter(root):

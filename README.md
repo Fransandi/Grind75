@@ -42,8 +42,8 @@ More info: https://www.techinterviewhandbook.org/grind75/about
 - [x] 19 - [Majority Element](https://leetcode.com/problems/majority-element) (Easy·20 mins)
 - [x] 20 - [Add Binary](https://leetcode.com/problems/add-binary) (Easy·15 mins)
 - [x] 21 - [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree) (Easy·30 mins)
-- [ ] 22 - [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list) (Easy·20 mins)
-- [ ] 23 - [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) (Easy·15 mins)
+- [x] 22 - [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list) (Easy·20 mins)
+- [x] 23 - [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) (Easy·15 mins)
 - [ ] 24 - [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) (Easy·15 mins)
 - [ ] 25 - [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) (Medium·20 mins)
 

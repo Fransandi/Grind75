@@ -42,10 +42,10 @@ def solution(instructions):
             queue.push(val)
 
         if instruction == "pop":
-            print(queue.pop())
+            queue.pop()
 
         if instruction == "peek":
-            print(queue.peek())
+            queue.peek()
 
         if instruction == "empty":
-            print(queue.empty())
+            queue.empty()
