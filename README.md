@@ -44,8 +44,8 @@ More info: https://www.techinterviewhandbook.org/grind75/about
 - [x] 21 - [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree) (Easy·30 mins)
 - [x] 22 - [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list) (Easy·20 mins)
 - [x] 23 - [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) (Easy·15 mins)
-- [ ] 24 - [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) (Easy·15 mins)
-- [ ] 25 - [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) (Medium·20 mins)
+- [x] 24 - [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) (Easy·15 mins)
+- [x] 25 - [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) (Medium·20 mins)
 
 ### Week 3 (0 / 8)
 
