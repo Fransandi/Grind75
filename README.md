@@ -47,16 +47,16 @@ More info: https://www.techinterviewhandbook.org/grind75/about
 - [x] 24 - [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) (Easy·15 mins)
 - [x] 25 - [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) (Medium·20 mins)
 
-### Week 3 (0 / 8)
+### Week 3 (8 / 8)
 
-- [ ] 26 - [Insert Interval](https://leetcode.com/problems/insert-interval) (Medium·25 mins)
-- [ ] 27 - [01 Matrix](https://leetcode.com/problems/01-matrix) (Medium·30 mins)
-- [ ] 28 - [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin) (Medium·30 mins)
-- [ ] 29 - [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) (Medium·30 mins)
-- [ ] 30 - [3Sum](https://leetcode.com/problems/3sum) (Medium·30 mins)
-- [ ] 31 - [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) (Medium·20 mins)
-- [ ] 32 - [Clone Graph](https://leetcode.com/problems/clone-graph) (Medium·25 mins)
-- [ ] 33 - [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation) (Medium·30 mins)
+- [x] 26 - [Insert Interval](https://leetcode.com/problems/insert-interval) (Medium·25 mins)
+- [x] 27 - [01 Matrix](https://leetcode.com/problems/01-matrix) (Medium·30 mins)
+- [x] 28 - [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin) (Medium·30 mins)
+- [x] 29 - [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) (Medium·30 mins)
+- [x] 30 - [3Sum](https://leetcode.com/problems/3sum) (Medium·30 mins)
+- [x] 31 - [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) (Medium·20 mins)
+- [x] 32 - [Clone Graph](https://leetcode.com/problems/clone-graph) (Medium·25 mins)
+- [x] 33 - [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation) (Medium·30 mins)
 
 ### Week 4 (0 / 8)
 

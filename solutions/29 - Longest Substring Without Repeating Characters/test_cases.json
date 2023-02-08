@@ -1,16 +1,16 @@
 {
   "test_cases": [
     {
-      "input": {},
-      "output": true
+      "input": { "s": "abcabcbb" },
+      "output": 3
     },
     {
-      "input": {},
-      "output": true
+      "input": { "s": "bbbbb" },
+      "output": 1
     },
     {
-      "input": {},
-      "output": true
+      "input": { "s": "pwwkew" },
+      "output": 3
     }
   ]
 }

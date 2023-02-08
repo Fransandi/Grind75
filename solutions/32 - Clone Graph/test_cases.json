@@ -1,16 +1,28 @@
 {
   "test_cases": [
     {
-      "input": {},
-      "output": true
+      "input": {
+        "adjList": [
+          [2, 4],
+          [1, 3],
+          [2, 4],
+          [1, 3]
+        ]
+      },
+      "output": [
+        [2, 4],
+        [1, 3],
+        [2, 4],
+        [1, 3]
+      ]
     },
     {
-      "input": {},
-      "output": true
+      "input": { "adjList": [[]] },
+      "output": [[]]
     },
     {
-      "input": {},
-      "output": true
+      "input": { "adjList": [] },
+      "output": []
     }
   ]
 }
