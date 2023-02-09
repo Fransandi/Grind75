@@ -58,16 +58,16 @@ More info: https://www.techinterviewhandbook.org/grind75/about
 - [x] 32 - [Clone Graph](https://leetcode.com/problems/clone-graph) (Medium·25 mins)
 - [x] 33 - [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation) (Medium·30 mins)
 
-### Week 4 (0 / 8)
+### Week 4 (8 / 8)
 
-- [ ] 34 - [Course Schedule](https://leetcode.com/problems/course-schedule) (Medium·30 mins)
-- [ ] 35 - [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree) (Medium·35 mins)
-- [ ] 36 - [Coin Change](https://leetcode.com/problems/coin-change) (Medium·25 mins)
-- [ ] 37 - [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) (Medium·30 mins)
-- [ ] 38 - [Min Stack](https://leetcode.com/problems/min-stack) (Medium·20 mins)
-- [ ] 39 - [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) (Medium·20 mins)
-- [ ] 40 - [Number of Islands](https://leetcode.com/problems/number-of-islands) (Medium·25 mins)
-- [ ] 41 - [Rotting Oranges](https://leetcode.com/problems/rotting-oranges) (Medium·30 mins)
+- [x] 34 - [Course Schedule](https://leetcode.com/problems/course-schedule) (Medium·30 mins)
+- [x] 35 - [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree) (Medium·35 mins)
+- [x] 36 - [Coin Change](https://leetcode.com/problems/coin-change) (Medium·25 mins)
+- [x] 37 - [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) (Medium·30 mins)
+- [x] 38 - [Min Stack](https://leetcode.com/problems/min-stack) (Medium·20 mins)
+- [x] 39 - [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) (Medium·20 mins)
+- [x] 40 - [Number of Islands](https://leetcode.com/problems/number-of-islands) (Medium·25 mins)
+- [x] 41 - [Rotting Oranges](https://leetcode.com/problems/rotting-oranges) (Medium·30 mins)
 
 ### Week 5 (0 / 8)
 

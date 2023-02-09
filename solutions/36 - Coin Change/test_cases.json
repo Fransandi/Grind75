@@ -1,16 +1,24 @@
 {
   "test_cases": [
     {
-      "input": {},
-      "output": true
+      "input": { "coins": [1, 2, 5], "amount": 11 },
+      "output": 3
     },
     {
-      "input": {},
-      "output": true
+      "input": { "coins": [2], "amount": 3 },
+      "output": -1
     },
     {
-      "input": {},
-      "output": true
+      "input": { "coins": [1], "amount": 0 },
+      "output": 0
+    },
+    {
+      "input": { "coins": [1, 2, 5], "amount": 100 },
+      "output": 20
+    },
+    {
+      "input": { "coins": [186, 419, 83, 408], "amount": 6249 },
+      "output": 20
     }
   ]
 }

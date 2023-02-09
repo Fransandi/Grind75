@@ -1,16 +1,28 @@
 {
   "test_cases": [
     {
-      "input": {},
-      "output": true
+      "input": {
+        "grid": [
+          [2, 1, 1],
+          [1, 1, 0],
+          [0, 1, 1]
+        ]
+      },
+      "output": 4
     },
     {
-      "input": {},
-      "output": true
+      "input": {
+        "grid": [
+          [2, 1, 1],
+          [0, 1, 1],
+          [1, 0, 1]
+        ]
+      },
+      "output": -1
     },
     {
-      "input": {},
-      "output": true
+      "input": { "grid": [[0, 2]] },
+      "output": 0
     }
   ]
 }

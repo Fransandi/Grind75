@@ -1,16 +1,21 @@
 {
   "test_cases": [
     {
-      "input": {},
-      "output": true
-    },
-    {
-      "input": {},
-      "output": true
-    },
-    {
-      "input": {},
-      "output": true
+      "input": {
+        "instructions": [
+          [
+            "Trie",
+            "insert",
+            "search",
+            "search",
+            "startsWith",
+            "insert",
+            "search"
+          ],
+          ["", "apple", "apple", "app", "app", "app", "app"]
+        ]
+      },
+      "output": [null, null, true, false, true, null, true]
     }
   ]
 }
